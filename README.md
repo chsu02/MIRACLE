@@ -1,10 +1,10 @@
 # MIRACLE 奇蹟事務所 — 台股工具與選股範例 🚀
 
+**Repository:** https://github.com/chsu02/MIRACLE.git
+
 **股神巴菲特的老師：價值投資之父葛拉漢的選股秘訣（淨營運資本法）**
 
 影片參考：https://www.youtube.com/watch?v=OlnprlpHjQo&list=PLzr9EpvIZ0Grpd_W6d1A7CQvLh_yDveX0&index=1
-
-**Repository:** https://github.com/chsu02/MIRACLE.git
 
 ---
 
