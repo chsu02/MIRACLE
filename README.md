@@ -4,6 +4,8 @@
 
 影片參考：https://www.youtube.com/watch?v=OlnprlpHjQo&list=PLzr9EpvIZ0Grpd_W6d1A7CQvLh_yDveX0&index=1
 
+**Repository:** https://github.com/chsu02/MIRACLE.git
+
 ---
 
 ## 簡介
